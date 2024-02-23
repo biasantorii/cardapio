@@ -2,7 +2,7 @@
 * [Cardápio](#cardapio)
 * [Descsrição](#descrição-📝)
 * [introdução](#introdução-⚙️)
-* [Tecnologias-utilizadas](#tecnologias ultilizadas-🛠️)
+* [Tecnologias-utilizadas](#tecnologias-ultilizadas-🛠️)
 * [Fontes-consultadas](#fontes-consultadas-👩🏾‍💻)
 * [Autores](#autores-📕)
 # Cardápio
